@@ -1,0 +1,7 @@
+Полная копия исходников проекта «Альфа Советник» (без node_modules и .git).
+
+Восстановление зависимостей:
+  cd "C:\\Users\\Operator\\Desktop\\AlfaSovetnik_full_copy"
+  npm install
+
+Создано: 2026-05-14T17:04:40.329Z

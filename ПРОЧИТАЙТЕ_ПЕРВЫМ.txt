@@ -1,0 +1,18 @@
+ПАПКА ДЛЯ ПУБЛИКАЦИИ НА VERCEL
+==============================
+
+Путь к папке:
+c:\Users\Operator\Desktop\AlfaSovetnik_Vercel_Publish
+
+Открыть в проводнике (скопируйте в адресную строку):
+c:\Users\Operator\Desktop\AlfaSovetnik_Vercel_Publish
+
+Инструкция: docs\VERCEL_DEPLOY.md
+
+Быстрый старт:
+1. Залейте ВСЁ содержимое этой папки в GitHub.
+2. https://vercel.com → Import Project.
+3. Deploy.
+4. Демо-ссылка: https://ваш-проект.vercel.app/?demo=1
+
+В архив не включайте node_modules и dist — их нет здесь намеренно.
